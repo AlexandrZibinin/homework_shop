@@ -70,5 +70,5 @@ testing = ["argcomplete", "attrs (>=19.2.0)", "hypothesis (>=3.56)", "mock", "no
 
 [metadata]
 lock-version = "2.0"
-python-versions = "^3.11"
-content-hash = "b439de7b0c1dcc9846389b7d06c9d856f9f0b7eedcfdf44f2c335d4b4aed0ed1"
+python-versions = "^3.12"
+content-hash = "8ee61f0df85fa2c22676b29d5493743f634c24204408f004c2ba049a4dfa67bb"
